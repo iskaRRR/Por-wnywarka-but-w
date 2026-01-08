@@ -1,27 +1,14 @@
 [
   {
-    
-    "sku" : "IB6399-003",
-    "model": "Nike Dunk Low Retro SE Niebieskie",
-    "brand" : "Nike",
-    "image": "/static/img/nike_dunk_low_retro_se_niebieskie.png",
-    "description": "opis",
-    "prices": {
-      "skstore" : 599,
-      "stockx" : 720,
-      "goat" : 699
-    }
-  },
-{
 
     "sku" : "HV1992-501",
     "model": "Buty Nike KD18 „B.A.D” Fioletowe",
-    "brand" : "Nike",
+    "brand" : "KD",
     "image": "/static/img/kd18-hv1992-501.png",
     "description": "Nike KD 18 “B.A.D.” to męskie buty do koszykówki inspirowane sygnowanym modelem Kevina Duranta, zaprojektowane z myślą o wydajności na boisku. Model o kodzie HV1992-501 ma fioletowo-lawendową kolorystykę z akcentami Fire Pink i Hemp, a nazwa „B.A.D.” to hołd dla babci Duranta, Barbara A. Davis, której inicjały znajdują się na językach butów.",
     "prices": {
       "skstore" : 409.99,
-      "stockx" : 493.91,
+      "stockx" : 493.94,
       "goat" : 598.50
     }
   },
@@ -29,7 +16,7 @@
 
     "sku" : "HV1992-400",
     "model": "Buty Nike KD18 “Seat Pleasant” Hyper Royal/Neon Yellow-Sail",
-    "brand" : "Nike",
+    "brand" : "KD",
     "image": "/static/img/kd18-hv1992-400.png",
     "description": "Nike KD18 HV1992-400 to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta. Model o kodzie HV1992-400 znany jest jako Nike KD 18 „Seat Pleasant” i łączy wysoką wydajność z wyrazistym designem inspirowanym miejscem pochodzenia Duranta – Seat Pleasant w Maryland.",
     "prices": {
@@ -42,8 +29,8 @@
 
     "sku" : "HV1992-601",
     "model": "Buty Nike KD18 Atomic Pink",
-    "brand" : "Nike",
-    "image": "/static/img/buty-kd18-atomic-pink-photo-blue-lt-wild-mango-hv1992-601.png",
+    "brand" : "KD",
+    "image": "/static/img/buty-kd18-hv1992-601.png",
     "description": "Nike KD18 Atomic Pink/Light Wild Mango to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta. Model o kodzie HV1992-601 znany jako Nike KD18 „Atomic Pink” łączy dynamiczną wydajność na parkiecie z ekspresyjną, żywą kolorystyką w odcieniach różu, żółci i błękitu",
     "prices": {
       "skstore" : 519.99,
@@ -55,9 +42,9 @@
 
     "sku" : "HV1992-002",
     "model": "Buty Nike KD18 Rain City",
-    "brand" : "Nike",
+    "brand" : "KD",
     "image": "/static/img/kd18-hv1992-002.png",
-    "description": "Nike KD18 Black/University Gold (kod HV1992-002) to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta, znane też jako Nike KD18 “Rain City” / “New Dawn”.Model ma głównie czarną kolorystykę z detalami w odcieniach złotego i zielonego, co nadaje mu nowoczesny i dynamiczny wygląd zarówno na boisku, jak i poza nim.astosowane technologie amortyzacji — połączenie Nike Air pod piętą i Zoom Air w przedniej części stopy — zapewniają reaktywną amortyzację, sprężystość odbicia i komfort przy szybkim poruszaniu się",
+    "description": "Nike KD18 Black/University Gold (kod HV1992-002) to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta, znane też jako Nike KD18 “Rain City” / “New Dawn”.Model ma głównie czarną kolorystykę z detalami w odcieniach złotego i zielonego, co nadaje mu nowoczesny i dynamiczny wygląd zarówno na boisku, jak i poza nim zastosowane technologie amortyzacji — połączenie Nike Air pod piętą i Zoom Air w przedniej części stopy — zapewniają reaktywną amortyzację, sprężystość odbicia i komfort przy szybkim poruszaniu się",
     "prices": {
       "skstore" : 549.99,
       "stockx" : 587.69,
@@ -66,16 +53,198 @@
   },
    {
 
-    "sku" : " IH2366-400",
+    "sku" : "IH2366-400",
     "model": "Buty Nike Giannis Freak 7 „Night Shift” Granatowo-Szare",
-    "brand" : "Nike",
-    "image": "/static/img/giannis-freak-7-se-ih2366-400",
-    "description": "",
+    "brand" : "Giannis",
+    "image": "/static/img/giannis-freak-7-se-ih2366-400.png",
+    "description": "Nike Giannis Freak 7 IH2366-400 to męskie buty do koszykówki w niebieskiej kolorystyce zaprojektowane z myślą o dynamicznej grze. Posiadają lekką i oddychającą konstrukcję, która wspiera naturalne ruchy stopy. Amortyzacja i stabilność zapewniają komfort podczas skoków i szybkich zmian kierunku.",
     "prices": {
       "skstore" : 379.99,
       "stockx" : 313.67,
       "goat" : 403.81
     }
-  }
+  },
+   {
+
+    "sku" : "IM5839-001",
+    "model": "Buty Nike Giannis Freak 7 „Shapeshift” Szare",
+    "brand" : "Giannis",
+    "image": "/static/img/buty-giannis-freak-7-im5839-001.png",
+    "description": "Nike Buty do koszykówki Giannis Freak 7 IM5839-001 to męskie Nike Giannis Freak 7 „Shapeshift”, zaprojektowane do koszykówki z lekką i dynamiczną konstrukcją inspirowaną stylem Giannisa Antetokounmpo. Model oferuje responsywną amortyzację oraz znakomitą przyczepność, co wspiera szybkie zmiany kierunku i dynamiczną grę. Ich nowoczesny design łączy sportowy charakter z funkcjonalnością, idealny dla graczy ceniących komfort i wydajność na parkiecie. ",
+    "prices": {
+      "skstore" : 429.99,
+      "stockx" : 468.71,
+      "goat" : 612.92
+    }
+  },
+   {
+
+    "sku" : "HF3450-600",
+    "model": "Buty Nike Giannis Freak 7 „Bred For It” Czerwone",
+    "brand" : "Giannis",
+    "image": "/static/img/giannis-freak-7-hf3450-600.png",
+    "description": "Nike KD Trey 5 X HF3450-600 to męskie buty do koszykówki w intensywnej czerwonej kolorystyce, zaprojektowane dla graczy szukających wydajności i komfortu na parkiecie. Mają responsywną amortyzację i dobrą stabilność, co wspiera szybkie ruchy i zmiany kierunku. Dynamiczny design łączy sportowy styl z funkcjonalnością podczas gry.",
+    "prices": {
+      "skstore" : 419.99,
+      "stockx" : 461.50,
+      "goat" : 605.71
+    }
+  },
+   {
+
+    "sku" : "II5250-200",
+    "model": "Buty Nike Giannis Freak 7 „Spotlight” Beżowe",
+    "brand" : "Giannis",
+    "image": "/static/img/giannis-freak-7-5250-200.png",
+    "description": "Nike Giannis Freak 7 II5250-200 to męskie buty do koszykówki w odcieniach beżowego i ziemistych tonów, zaprojektowane by łączyć lekkość z dynamiką na boisku. Mają opływową konstrukcję i piankę zapewniającą responsywność oraz doskonałą przyczepność podczas szybkich zmian kierunku. Model inspirowany jest pasją i energią Giannisa Antetokounmpo, co wspiera naturalne ruchy i pewność na parkiecie.",
+    "prices": {
+      "skstore" : 409.99,
+      "stockx" : 493.94,
+      "goat" : 421.84
+    }
+  },
+   {
+
+    "sku" : "FB1803-200",
+    "model": "Buty Jordan Zion 4 „Voo Doo” Brązowe",
+    "brand" : "Zion",
+    "image": "/static/img/jordan-zion-4-fb1803-200.png",
+    "description": "Air Jordan Zion 4 FB1803-200 to męskie sneakersy inspirowane modelem sygnowanym przez Ziona Williamsona, wykonane w brązowej kolorystyce i zaprojektowane z myślą o stylu ulicznym. Posiadają wytrzymałą konstrukcję z responsywną amortyzacją, która łączy komfort z lekkością noszenia. Charakterystyczny design łączy elementy koszykarskie z modowym akcentem, idealny do codziennych stylizacji.",
+    "prices": {
+      "skstore" : 449.99,
+      "stockx" : 511.97,
+      "goat" : 594.9
+    }
+    },
+   {
+
+    "sku" : "FB1802-005",
+    "model": "Buty Jordan Zion 4 Damascus Steel",
+    "brand" : "Zion",
+    "image": "/static/img/jordan-zion-4-fb1802-005.png",
+    "description": "Air Jordan Zion 4 FB1802-005 to męskie sneakersy w eleganckiej czarno-szarej kolorystyce inspirowane stylem Ziona Williamsona i zaprojektowane z myślą o codziennym komforcie. Mają wytrzymałą cholewkę i responsywną amortyzację, która zapewnia stabilność i wygodę przez cały dzień. Charakterystyczny design łączy sportowy styl z modowym akcentem, idealny do miejskich stylizacji.",
+    "prices": {
+      "skstore" : 389.99,
+      "stockx" : 479.52,
+      "goat" : 511.97
+    }
+    },
+   {
+
+    "sku" : "FB1802-400",
+    "model": "Buty Jordan Zion 4 „Iridescence” Light Photo Blue/Czerń/Blue Gaze/Coast",
+    "brand" : "Zion",
+    "image": "/static/img/jordan-zion-4-fb1802-400.png",
+    "description": "Air Jordan Zion 4 FB1802-400 to męskie sneakersy w niebieskiej kolorystyce inspirowane dynamicznym stylem gry Ziona Williamsona. Oferują solidną konstrukcję oraz responsywną amortyzację zapewniającą komfort i stabilność podczas codziennego użytkowania. Nowoczesny design łączy sportowy charakter z miejskim stylem, dzięki czemu buty dobrze sprawdzają się zarówno na boisku, jak i na co dzień.",
+    "prices": {
+      "skstore" : 389.99,
+      "stockx" : 429.05,
+      "goat" : 630.95
+    }
+    },
+   {
+
+    "sku" : "FB1802-102",
+    "model": "Buty Jordan Zion 4 “Low Country” Coconut Milk/Sail/Bright Mango/Aurora Green",
+    "brand" : "Zion",
+    "image": "/static/img/jordan-zion-4-fb1802-102.png",
+    "description": "Air Jordan Zion 4 FB1802-102 to męskie sneakersy w białej kolorystyce inspirowane stylem Ziona Williamsona. Oferują lekką, wytrzymałą konstrukcję z responsywną amortyzacją, która zapewnia komfort i stabilność przez cały dzień. Nowoczesny design łączy sportowy charakter z miejskim stylem, idealny zarówno na co dzień, jak i do aktywnego wypoczynku.",
+    "prices": {
+      "skstore" : 409.99,
+      "stockx" : 493.94,
+      "goat" : 421.84
+    }
+    },
+    {
+
+    "sku" : "IO3673-400",
+    "model": "Buty Nike Kobe 9 Elite Low Protro “Perspective” Neo Turquoise/Volt",
+    "brand" : "Kobe",
+    "image": "/static/img/stitches-low-fk-io3673-400.png",
+    "description": "Nike Kobe IO3673-400 to męskie buty koszykarskie w niebieskiej kolorystyce łączące nowoczesne technologie z charakterystycznym stylem Kobe Bryanta. Mają lekką i oddychającą konstrukcję z responsywną amortyzacją zapewniającą stabilność i komfort podczas szybkich ruchów na boisku. Dynamiczny design inspirowany legendarnym stylem gry sprawia, że buty świetnie sprawdzają się zarówno w grze, jak i w casualowych stylizacjach.",
+    "prices": {
+      "skstore" : 919.99,
+      "stockx" : 883.33,
+      "goat" : 930.20
+    }
+    },
+    {
+
+    "sku" : "IQ5338-400",
+    "model": "Buty Nike Kobe 3 Protro Royal Pulse/Blanc/Chrome",
+    "brand" : "Kobe",
+    "image": "/static/img/buty-nike-kobe-iii.png",
+    "description": "Nike Kobe IQ5338-400 to męskie buty koszykarskie w niebieskiej kolorystyce zaprojektowane z myślą o dynamicznej grze i zwrotności na parkiecie. Mają lekką, oddychającą konstrukcję oraz responsywną amortyzację, która wspiera szybkie zmiany kierunku i skoki. Nowoczesny design łączy sportowy charakter z estetyką inspirowaną legendarnym stylem Kobe Bryanta.",
+    "prices": {
+      "skstore" : 859.99,
+      "stockx" : 688.64,
+      "goat" : 919.38
+    }
+    },
+    {
+
+    "sku" : "IH1401-002",
+    "model": "Buty Nike Kobe IX Elite Low EM Protro “Black/University Gold”",
+    "brand" : "Kobe",
+    "image": "/static/img/kobe-ix-elite-low-em-protro-ih1401-002.png",
+    "description": "Nike Kobe IH1401-002 to męskie buty koszykarskie w czarnej kolorystyce zaprojektowane z myślą o dynamicznej grze i zwrotności na parkiecie. Mają lekką, oddychającą konstrukcję oraz responsywną amortyzację, która wspiera szybkie zmiany kierunku i kontrolę ruchu. Nowoczesny design łączy sportowy charakter z estetyką inspirowaną legendarnym stylem Kobe Bryanta.",
+    "prices": {
+      "skstore" : 579.99,
+      "stockx" : 594.90,
+      "goat" : 677.82
+    }
+    },
+    {
+
+    "sku" : "IH1401-600",
+    "model": "Buty Nike Kobe IX Elite Low EM Protro University Red/White/White",
+    "brand" : "Kobe",
+    "image": "/static/img/kobe-ix-elite-low-em-protro-ih1401-600.png",
+    "description": "Nike Kobe IH1401-600 to męskie buty koszykarskie w intensywnej czerwonej kolorystyce zaprojektowane z myślą o dynamicznej grze i zwrotności na parkiecie. Mają lekką, oddychającą konstrukcję oraz responsywną amortyzację, która wspiera szybkie zmiany kierunku i stabilność ruchu. Nowoczesny design łączy sportowy charakter z estetyką inspirowaną legendarnym stylem Kobe Bryanta.",
+    "prices": {
+      "skstore" : 579.99,
+      "stockx" : 767.96,
+      "goat" : 937.41
+    }
+    },
+  {
+
+    "sku" : "IH1401-001",
+    "model": "Buty Nike Kobe IX Elite Low EM Protro Wolf Grey/White/White",
+    "brand" : "Kobe",
+    "image": "/static/img/kobe-ix-elite-low-em-protro-ih1401-001.png",
+    "description": "Nike Kobe IH1401-001 to męskie buty koszykarskie w eleganckiej czarnej kolorystyce zaprojektowane z myślą o dynamicznej grze i zwrotności na parkiecie. Mają lekką, oddychającą konstrukcję oraz responsywną amortyzację, która wspiera szybkie zmiany kierunku i stabilność ruchu. Nowoczesny design łączy sportowy charakter z estetyką inspirowaną legendarnym stylem Kobe Bryanta.",
+    "prices": {
+      "skstore" : 579.99,
+      "stockx" : 800.41,
+      "goat" : 692.24
+    }
+  },
+{
+    "sku" : "IM3078-100",
+    "model": "Buty Nike Air Force 1 Low Białe",
+    "brand" : "Force",
+    "image": "/static/img/IM3078-100.png",
+    "description": "Buty Nike IM3078-100 to model Nike Giannis Immortality 4, stworzone z myślą o dynamicznej grze i wszechstronnej przyczepności na różnych nawierzchniach. Wielokierunkowy bieżnik oraz oddychająca cholewka zapewniają stabilność i komfort nawet podczas intensywnych zwrotów. To funkcjonalny model idealny do treningów i meczów koszykarskich.",
+    "prices": {
+      "skstore" : 449.99,
+      "stockx" : 608.40,
+      "goat" : 614.99
+    }
   
+    },
+
+        {
+
+    "sku" : "IB6388-300",
+    "model": "Buty Nike Air Force 1 '07 LV8 Zielone",
+    "brand" : "Force",
+    "image": "/static/img/IB6388-300.png",
+    "description": "Buty Nike Air Force 1 '07 LV8 (SKU IB6388-300) to klasyczne sneakersy z kultowej serii Air Force 1, wykonane z wysokiej jakości skóry i zamszu z intensywną zieloną kolorystyką. Mają wygodną, amortyzowaną podeszwę z systemem Air, która zapewnia komfort przy codziennym noszeniu. To uniwersalny model lifestyle idealny do casualowych stylizacji.",
+    "prices": {
+      "skstore" : 429.99,
+      "stockx" : 327.60,
+      "goat" : 482.40
+    }
+    }
 ]
