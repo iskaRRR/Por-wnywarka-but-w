@@ -220,21 +220,147 @@
       "goat" : 692.24
     }
   },
-{
+ {
+    
+    "sku" : "IB6399-003",
+    "model": "Nike Dunk Low Retro SE Niebieskie",
+    "brand" : "Dunk",
+    "image": "/static/img/nike_dunk_low_retro_se_niebieskie.png",
+    "description": "klasyczne sneakersy inspirowane koszykarskim dziedzictwem Nike, odświeżone w wersji lifestyle’owej z myślą o codziennym użytkowaniu. Cholewka łączy trwałość i wygodę, z czasem nabierając miękkości i stylowego wyglądu vintage, a piankowa podeszwa z gumowym spodem zapewnia komfort i przyczepność przez cały dzień. Idealne do streetwearowych stylizacji, łączą klasyczny design z nowoczesnym komfortem",
+    "prices": {
+      "skstore" : 419.99,
+      "stockx" : 344.64,
+      "goat" : 405.67
+    }
+  },
+
+  {
+
+    "sku" : "FQ3680-010",
+    "model": "Nike Giannis Immortality 4 Czarne",
+    "brand" : "Giannis",
+    "image": "/static/img/nike_giannis_immortality_4_czarne.png",
+    "description": "wszechstronne buty do koszykówki stworzone z myślą o dynamicznej grze na różnych nawierzchniach. Charakteryzują się wielokierunkowym bieżnikiem zapewniającym świetną przyczepność, oddychającą cholewką i stabilnym wsparciem przy zmianach kierunku ruchu. To solidna propozycja zarówno na treningi, jak i mecze, łącząca komfort i funkcjonalność.",
+    "prices": {
+      "skstore" : 329.99,
+      "stockx" : 409.26,
+      "goat" : 495.42
+    }
+    },
+
+ {
+
+    "sku" : "FD7328-700",
+    "model": "Nike Ja 2 Złote",
+    "brand" : "Ja",
+    "image": "/static/img/nike_ja_2_zlote.png",
+    "description": "Buty Nike FD7328-700 to model Nike Ja 2, dynamiczne buty koszykarskie inspirowane stylem gry Ja Morant. Lekka konstrukcja, poduszka Air Zoom w przedniej części oraz przyczepna podeszwa zapewniają szybkość, responsywność i kontrolę przy gwałtownych zwrotach. To model stworzony dla graczy stawiających na agresywną i efektowną grę.",
+    "prices": {
+      "skstore" : 319.99,
+      "stockx" : 405.67,
+      "goat" : 477.47
+    }
+    },
+
+ {
+
+    "sku" : "FJ9487-800",
+    "model": "Nike KD17 Pomarańczowe",
+    "brand" : "KD",
+    "image": "/static/img/nike_kd17_pomaranczowe.png",
+    "description": "Buty **Nike FJ9487-800** to model **Nike KD 17**, zaprojektowany z myślą o dynamicznej grze i responsywnej amortyzacji na parkiecie. Wyposażone w dużą poduszkę Air Zoom oraz amortyzację Nike Air, gwarantują komfort i energię przy każdym kroku. Charakterystyczna kolorystyka podkreśla sportowy design i wyróżnia się na boisku.",
+    "prices": {
+      "skstore" : 409.99,
+      "stockx" : 405.67,
+      "goat" : 484.65
+    }
+    },
+
+ {
+
+    "sku" : "IH1400-600",
+    "model": "Nike Kobe 9 Low Protro China Red",
+    "brand" : "Kobe",
+    "image": "/static/img/nike_kobe_9_china_red.png",
+    "description": "Buty **Nike IH1400-600** to model **Nike Kobe 9 Low Protro EM „China”**, hołdujący relacji **Kobe Bryant** z Chinami poprzez intensywną, czerwoną kolorystykę i kulturowe detale. Lekka, przewiewna cholewka oraz pianka React zapewniają doskonałą wentylację, amortyzację i responsywność podczas gry. Charakterystyczne akcenty i symbolika yin-yang dodają butom głębszego znaczenia i stylu.",
+    "prices": {
+      "skstore" : 699.99,
+      "stockx" : 732.36,
+      "goat" : 789.80
+    }
+    },
+
+ {
+
+    "sku" : "IB0018-500",
+    "model": "Nike Kobe Air Force 1 Low Fioletowe",
+    "brand" : "Force",
+    "image": "/static/img/nike_kobe_air_force_1_fioletowe.png",
+    "description": "Buty **Nike IB0018-500** to model **Nike Kobe Air Force 1 Low**, hołdujący legendzie **Kobe Bryant** poprzez detale inspirowane „Black Mamba”. Cholewka z motywem skóry węża i numery 8 oraz 24 na pięcie podkreślają sportowe dziedzictwo, a klasyczny design AF1 łączy komfort z ulicznym stylem. To kultowy model łączący sportową historię z codzienną modą",
+    "prices": {
+      "skstore" : 389.99,
+      "stockx" : 448.75,
+      "goat" : 481.06
+    }
+    },
+
+ {
+
+    "sku" : "HF0712-700",
+    "model": "Nike Lebron Next Gen Zielone",
+    "brand" : "Lebron",
+    "image": "/static/img/nike_lebron_next_gen_zielone.png",
+    "description": "Buty **[Nike LeBron NXXT Genisus]()** to model koszykarski inspirowany stylem gry **LeBron James**, łączący nowoczesny design z wysoką wydajnością na parkiecie. Technologia **Air Zoom** w przedniej części zapewnia responsywność i dynamiczną amortyzację, a lekka, oddychająca cholewka wspiera stabilność i komfort. To wszechstronne buty, które sprawdzą się podczas intensywnych treningów i dynamicznej gry.",
+    "prices": {
+      "skstore" : 389.99,
+      "stockx" : 585.17,
+      "goat" : 940.58
+    }
+    },
+
+ {
+
+    "sku" : "FN4322-101",
+    "model": "Nike Precision 7 Białe",
+    "brand" : "Precision",
+    "image": "/static/img/nike_precision_7_biale.png",
+    "description": "Buty Nike FN4322-101 to model Nike Precision 7, zaprojektowany jako wszechstronne buty do koszykówki z naciskiem na kontrolę podłoża i komfort gry. Mają przewiewną cholewkę oraz piankową podeszwę środkową, która zapewnia amortyzację i stabilność podczas dynamicznych ruchów. Wielokierunkowy bieżnik gwarantuje dobrą przyczepność na parkiecie i wspiera szybkie zmiany kierunku",
+    "prices": {
+      "skstore" : 259.99,
+      "stockx" : 337.46,
+      "goat" : 330.28
+    }
+    },
+
+ {
+
+    "sku" : "HV9918-900",
+    "model": "Nike G.T. Cut 3 Turbo Multikolor",
+    "brand" : "Cut",
+    "image": "/static/img/nike_kobe_air_force_1_fioletowe.png",
+    "description": "Buty Nike HV9918-900 to model Nike G.T. Cut 3 Turbo “South Beach”, zaawansowane koszykarskie sneakersy z dynamiczną amortyzacją dzięki piance ZoomX i stabilizującą płytką z włókna węglowego. Zapewniają niezawodną przyczepność i responsywność na parkiecie, wspierając szybkie zmiany kierunku ruchu. Ich unikatowa, wielokolorowa stylistyka dodaje energii zarówno na boisku, jak i w streetwearowych stylizacjach.",
+    "prices": {
+      "skstore" : 689.99,
+      "stockx" : 660.56,
+      "goat" : 1023.15
+    }
+    },
+
+   {
+
     "sku" : "IM3078-100",
     "model": "Buty Nike Air Force 1 Low Białe",
     "brand" : "Force",
     "image": "/static/img/IM3078-100.png",
-    "description": "Buty Nike IM3078-100 to model Nike Giannis Immortality 4, stworzone z myślą o dynamicznej grze i wszechstronnej przyczepności na różnych nawierzchniach. Wielokierunkowy bieżnik oraz oddychająca cholewka zapewniają stabilność i komfort nawet podczas intensywnych zwrotów. To funkcjonalny model idealny do treningów i meczów koszykarskich.",
+    "description": "Buty Nike IM3078-100 to klasyczne Nike Air Force 1 ’07 LV8 w białej kolorystyce. Wykonane z wysokiej jakości materiałów zapewniają trwałość oraz komfort dzięki amortyzowanej podeszwie z systemem Air. To uniwersalny model lifestyle, który świetnie sprawdza się w codziennych stylizacjach.",
     "prices": {
       "skstore" : 449.99,
       "stockx" : 608.40,
       "goat" : 614.99
     }
-  
     },
 
-        {
+{
 
     "sku" : "IB6388-300",
     "model": "Buty Nike Air Force 1 '07 LV8 Zielone",
@@ -246,5 +372,260 @@
       "stockx" : 327.60,
       "goat" : 482.40
     }
+    },
+
+ {
+
+    "sku" : "HV2021-200",
+    "model": "Buty Nike Air Force 1 Low Beżowe",
+    "brand" : "Force",
+    "image": "/static/img/HV2021-200.png",
+    "description": "Buty Nike HV2021-200 to model Nike Air Force 1 ’07 LV8, klasyczne sneakersy z wyrazistą, kremowo-żółtą kolorystyką. Wykonane z wysokiej jakości materiałów oferują trwałość i komfort noszenia dzięki amortyzowanej podeszwie z systemem Air. Świetnie sprawdzają się jako uniwersalny element codziennych stylizacji.",
+    "prices": {
+      "skstore" : 389.99,
+      "stockx" : 302.40,
+      "goat" : 327.60
     }
+    },
+
+ {
+
+    "sku" : "IM6001-475",
+    "model": "Buty Nike Air Force 1 Low Cordura Dark Obsidian",
+    "brand" : "Force",
+    "image": "/static/img/IM6001-475.png",
+    "description": "Buty Nike Air Force 1 '07 LV8 IM6001‑475 to klasyczne sneakersy Nike Air Force 1 '07 LV8 o niskoprofilowej konstrukcji i ponadczasowym designie. Wykonane z wytrzymałych materiałów, oferują komfort noszenia dzięki amortyzowanej podeszwie z systemem Air i solidnej przyczepności. To uniwersalny model idealny do codziennego stylu casual i streetwear.",
+    "prices": {
+      "skstore" : 459.99,
+      "stockx" : 795.60,
+      "goat" : 576
+    }
+    },
+
+
+{
+
+    "sku" : "CW2288-001",
+    "model": "Buty Nike Air Force 1 '07 Czarne",
+    "brand" : "Force",
+    "image": "/static/img/CW2288-001.png",
+    "description": "Buty Nike IB0018-301 to klasyczne Nike Air Force 1 Low w zielonej kolorystyce o ponadczasowym designie. Wykonane z trwałych materiałów, oferują wygodę noszenia dzięki amortyzowanej podeszwie z systemem Air. To uniwersalny model sneakerów idealny do codziennych, streetwearowych stylizacji.",
+    "prices": {
+      "skstore" : 419.99,
+      "stockx" : 349.20,
+      "goat" : 345.60
+    }
+    },
+
+  {
+
+    "sku" : "IM6485-121",
+    "model": "Buty Nike Air Force 1 '07 Low Białe Winter",
+    "brand" : "Force",
+    "image": "/static/img/IM6485-121.png",
+    "description": "Buty Nike IM6485-121 to Nike Air Force 1 ’07 LV8 Winter w jasnej kolorystyce, łączące klasyczny design z komfortem użytkowania. Wykonane z wysokiej jakości materiałów zapewniają trwałość oraz amortyzację dzięki systemowi Air w podeszwie. To uniwersalne sneakersy idealne do codziennych, casualowych stylizacji.",
+    "prices": {
+      "skstore" : 459.99,
+      "stockx" : 831.60,
+      "goat" : 442.80
+    }
+    },
+
+  {
+
+    "sku" : "HV1204-100",
+    "model": "Buty Nike Air Force 1 Low Canvas Białe",
+    "brand" : "Force",
+    "image": "/static/img/HV1204-100.png",
+    "description": "Nike Air Force 1 Low Canvas to kultowe sneakersy łączące klasyczny design z nowoczesnym komfortem codziennego użytkowania. Przewiewna płócienna cholewka zapewnia lekkość i wygodę przez cały dzień, a poduszka Nike Air skutecznie amortyzuje każdy krok. Gumowa podeszwa z klasycznym bieżnikiem gwarantuje trwałość, stabilność i dobrą przyczepność na różnych nawierzchniach.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 543.60,
+      "goat" : 514.80
+    }
+    },
+
+  {
+
+    "sku" : "HV1204-300",
+    "model": "Buty Nike Air Force 1 Low Canvas Zielone",
+    "brand" : "Force",
+    "image": "/static/img/HV1204-300.png",
+    "description": "Nike Air Force 1 Low Canvas to kultowe sneakersy łączące klasyczny design z nowoczesnym komfortem codziennego użytkowania. Przewiewna płócienna cholewka zapewnia lekkość i wygodę przez cały dzień, a poduszka Nike Air skutecznie amortyzuje każdy krok. Gumowa podeszwa z klasycznym bieżnikiem gwarantuje trwałość, stabilność i dobrą przyczepność na różnych nawierzchniach.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 424.80,
+      "goat" : 536.40
+    }
+    },
+
+  {
+
+    "sku" : "DD9625-100",
+    "model": "Buty Nike Air Force 1 '07 Mid Białe",
+    "brand" : "Force",
+    "image": "/static/img/DD9625-100.png",
+    "description": "Nike Air Force 1 ’07 Mid to stylowe i solidne sneakersy, które łączą klasyczny wygląd z wysokim komfortem noszenia. Lekka podeszwa środkowa, wyściełany kołnierz oraz zapięcie na rzep zapewniają wygodę, stabilność i dobre dopasowanie. Perforowana cholewka i gumowa podeszwa zwiększają przewiewność, trwałość oraz przyczepność na co dzień.",
+    "prices": {
+      "skstore" : 479.99,
+      "stockx" : 543.60,
+      "goat" : 511.20
+    }
+    },
+
+ {
+
+    "sku" : "HV5953-300",
+    "model": "Buty Nike Air Force 1 GORE-TEX Vibram Clay Green",
+    "brand" : "Force",
+    "image": "/static/img/HV5953-300.png",
+    "description": "Nike Air Force 1 GTX Vibram to połączenie kultowego stylu z funkcjonalnością stworzoną na trudne warunki pogodowe. Skórzana cholewka z wodoodporną membraną GORE-TEX zapewnia trwałość, ochronę przed wilgocią i oddychalność. Gumowa podeszwa Vibram gwarantuje świetną przyczepność, a wyściełany kołnierz podnosi komfort codziennego użytkowania.",
+    "prices": {
+      "skstore" : 589.99,
+      "stockx" : 651.60,
+      "goat" : 576
+    }
+    },
+
+ {
+
+    "sku" : "CI0919-006",
+    "model": "Buty Nike Air Force 1 Shadow Czarne",
+    "brand" : "Force",
+    "image": "/static/img/CI0919-006.png",
+    "description": "Buty Nike Air Force to nowoczesna, odważna reinterpretacja klasycznego modelu AF-1, wyróżniająca się podwójnymi detalami i przeskalowaną podeszwą środkową. Podwójne logo Swoosh, oczka na sznurówki i wzmocnienia podkreślają charakterystyczne DNA modelu w streetwearowym stylu. Amortyzująca piankowa podeszwa zapewnia komfort i przyczepność na co dzień.",
+    "prices": {
+      "skstore" : 459.99,
+      "stockx" : 1198.80,
+      "goat" : 442.80
+    }
+    },
+
+ {
+
+    "sku" : "HQ1965-100",
+    "model": "Buty Nike Dunk Low Retro SE Czarno-Białe",
+    "brand" : "Dunk",
+    "image": "/static/img/HQ1965-100.png",
+    "description": "Buty Nike Dunk Low SE łączą klasyczny, niskoprofilowy design z nowoczesnym komfortem codziennego użytkowania. Miękka i przewiewna cholewka zapewnia wygodę przez cały dzień, a piankowa podeszwa środkowa oferuje lekką amortyzację. Gumowa podeszwa zewnętrzna gwarantuje trwałość i dobrą przyczepność na różnych nawierzchniach.",
+    "prices": {
+      "skstore" : 429.99,
+      "stockx" : 320.40,
+      "goat" : 385.20
+    }
+    },
+
+ {
+
+    "sku" : "FV0389-100",
+    "model": "Buty Nike Dunk Low Szare",
+    "brand" : "Dunk",
+    "image": "/static/img/FV0389-100.png",
+    "description": "Nike Dunk Low to idealne buty na letnie dni, łączące klasyczny design z lekką i przewiewną konstrukcją. Niska cholewka ze skóry z kolorowymi akcentami zapewnia komfort i swobodę noszenia, a amortyzująca podeszwa sprawia, że każdy krok jest wygodny. Gumowa podeszwa z charakterystycznym bieżnikiem gwarantuje dobrą przyczepność na różnych nawierzchniach.",
+    "prices": {
+      "skstore" : 283.99,
+      "stockx" : 1011.60,
+      "goat" : 626.40
+    }
+    },
+
+{
+
+    "sku" : "DV0833-115",
+    "model": "Buty Nike Dunk Low Retro White/Redwood-Gym Red",
+    "brand" : "Dunk",
+    "image": "/static/img/DV0833-115.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy wykonane ze skórzanej cholewki, które łączą ponadczasowy styl z wysokim komfortem noszenia. Piankowa podeszwa środkowa zapewnia amortyzację, a gumowa podeszwa zewnętrzna gwarantuje trwałość i dobrą przyczepność. Wyrazista kolorystyka oraz subtelne detale, takie jak haftowane logo na pięcie, podkreślają charakter modelu.",
+    "prices": {
+      "skstore" : 319.99,
+      "stockx" : 450,
+      "goat" : 392.40
+    }
+    },
+
+ {
+
+    "sku" : "HF5441-108",
+    "model": "Buty Nike Dunk Low Retro Żółte",
+    "brand" : "Dunk",
+    "image": "/static/img/HF5441-108.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy ze skórzaną cholewką, które łączą ponadczasowy styl z wygodą na co dzień. Piankowa podeszwa środkowa zapewnia dobrą amortyzację, a gumowa podeszwa zewnętrzna gwarantuje trwałość i przyczepność. Wyrazisty czerwony akcent oraz subtelne detale, takie jak haftowane logo na pięcie, nadają butom charakteru.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 270,
+      "goat" : 334.80
+    }
+    },
+  
+ {
+
+    "sku" : "HF5441-107",
+    "model": "Buty Nike Dunk Low Retro Granatowe",
+    "brand" : "Dunk",
+    "image": "/static/img/HF5441-107.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy ze skórzaną cholewką, które łączą ponadczasowy styl z wysokim komfortem noszenia. Piankowa podeszwa środkowa zapewnia amortyzację, a gumowa podeszwa zewnętrzna odpowiada za trwałość i dobrą przyczepność. Charakterystyczna czerwona kolorystyka oraz haftowane logo na pięcie podkreślają wyrazisty wygląd modelu.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 324.00,
+      "goat" : 345.60
+    }
+ },
+
+ {
+
+    "sku" : "HF5441-101",
+    "model": "Buty Nike Dunk Low Retro Czarno-Niebieskie",
+    "brand" : "Dunk",
+    "image": "/static/img/HF5441-101.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy wykonane ze skórzanej cholewki, łączące elegancki wygląd z codziennym komfortem. Piankowa podeszwa środkowa zapewnia amortyzację, a gumowa podeszwa zewnętrzna gwarantuje trwałość i dobrą przyczepność. Wyrazista czerwona kolorystyka oraz haftowane logo na pięcie nadają butom charakteru.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 410.40,
+      "goat" : 399.60
+    }
+   },
+
+ {
+
+    "sku" : "DD1873-201",
+    "model": "Buty Nike Dunk Low Next Nature Brązowo-Beżowe",
+    "brand" : "Dunk",
+    "image": "/static/img/DD1873-201.png",
+    "description": "Nike Dunk Low Next Nature to nowoczesna odsłona klasycznego modelu z lat 80., łącząca sportowe dziedzictwo z minimalistycznym stylem. Skórzana cholewka z delikatnym połyskiem zapewnia trwałość, komfort i dobre dopasowanie do stopy. Piankowa wkładka odpowiada za amortyzację i wygodę podczas codziennego noszenia.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 331.20,
+      "goat" : 511.20
+    }
+    },
+ 
+
+ {
+
+    "sku" : "HF5441-601",
+    "model": "Buty Nike Dunk Low Retro Czerwone",
+    "brand" : "Dunk",
+    "image": "/static/img/HF5441-601.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy wykonane ze skórzanej cholewki, które łączą ponadczasowy styl z codziennym komfortem. Piankowa podeszwa środkowa zapewnia amortyzację, a gumowa podeszwa zewnętrzna odpowiada za trwałość i dobrą przyczepność. Stonowane sznurowadła oraz haftowane logo na pięcie podkreślają elegancki charakter modelu.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 378.00,
+      "goat" : 460.80
+    }
+    },
+    
+ {
+
+    "sku" : "HF5441-700",
+    "model": "Buty Nike Dunk Low Retro Czarno-Pomarańczowe",
+    "brand" : "Dunk",
+    "image": "/static/img/HF5441-700.png",
+    "description": "Nike Dunk Low Retro to klasyczne sneakersy ze skórzaną cholewką, oferujące ponadczasowy styl oraz wysoki komfort noszenia. Piankowa podeszwa środkowa zapewnia dobrą amortyzację, a gumowa podeszwa zewnętrzna gwarantuje trwałość i przyczepność. Stonowane sznurowadła oraz haftowane logo na pięcie nadają modelowi elegancki charakter.",
+    "prices": {
+      "skstore" : 309.99,
+      "stockx" : 370.80,
+      "goat" : 439.20
+    }
+    }
+
 ]
