@@ -94,7 +94,7 @@ if (item.description) {
 
 // ===== PODOBNE MODELE =====
 document.getElementById("similarSection").style.display = "block";
-loadSimilar(item.model);
+loadSimilar(item.sku);
 
 
 

@@ -36,33 +36,47 @@ with open(os.path.join(BASE_DIR, "shoes.json"), encoding="utf-8") as f:
 # ===== PORÓWNANIE =====
 @app.get("/api/compare")
 def compare_model(query: str):
-    q = query.lower()
+    q = query.strip().lower()
 
-    for item in shoes:
-        if q in item["model"].lower() or q == item["sku"].lower():
-            return [{
-                "model": item["model"],
-                "sku": item["sku"],
-                "image": item["image"],
-                "description": item.get("description", ""),
-                "prices": item["prices"]
-            }]
+    matches = [
+        {
+            "model": item["model"],
+            "sku": item["sku"],
+            "image": item["image"],
+            "description": item.get("description", ""),
+            "prices": item["prices"]
+        }
+        for item in shoes
+        if q in item["model"].lower() or q == item["sku"].lower()
+    ]
 
-    return []
+    return matches[:1]
 
 
 
 
 @app.get("/api/similar")
-def similar_models(model: str):
-    base = model.split()[0].lower()  # np "nike"
+def similar_models(sku: str):
+    current = next(
+        (s for s in shoes if s["sku"].lower() == sku.lower()),
+        None
+    )
+
+    if not current:
+        return []
+
+    brand = current["brand"].lower()
 
     result = []
     for s in shoes:
-        if base in s["model"].lower() and s["model"] != model:
+        if (
+            s["brand"].lower() == brand and
+            s["sku"] != current["sku"]
+        ):
             result.append({
                 "model": s["model"],
-                "image": s["image"]
+                "image": s["image"],
+                "sku": s["sku"]
             })
 
     return result[:4]
