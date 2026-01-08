@@ -1,0 +1,81 @@
+[
+  {
+    
+    "sku" : "IB6399-003",
+    "model": "Nike Dunk Low Retro SE Niebieskie",
+    "brand" : "Nike",
+    "image": "/static/img/nike_dunk_low_retro_se_niebieskie.png",
+    "description": "opis",
+    "prices": {
+      "skstore" : 599,
+      "stockx" : 720,
+      "goat" : 699
+    }
+  },
+{
+
+    "sku" : "HV1992-501",
+    "model": "Buty Nike KD18 „B.A.D” Fioletowe",
+    "brand" : "Nike",
+    "image": "/static/img/kd18-hv1992-501.png",
+    "description": "Nike KD 18 “B.A.D.” to męskie buty do koszykówki inspirowane sygnowanym modelem Kevina Duranta, zaprojektowane z myślą o wydajności na boisku. Model o kodzie HV1992-501 ma fioletowo-lawendową kolorystykę z akcentami Fire Pink i Hemp, a nazwa „B.A.D.” to hołd dla babci Duranta, Barbara A. Davis, której inicjały znajdują się na językach butów.",
+    "prices": {
+      "skstore" : 409.99,
+      "stockx" : 493.91,
+      "goat" : 598.50
+    }
+  },
+   {
+
+    "sku" : "HV1992-400",
+    "model": "Buty Nike KD18 “Seat Pleasant” Hyper Royal/Neon Yellow-Sail",
+    "brand" : "Nike",
+    "image": "/static/img/kd18-hv1992-400.png",
+    "description": "Nike KD18 HV1992-400 to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta. Model o kodzie HV1992-400 znany jest jako Nike KD 18 „Seat Pleasant” i łączy wysoką wydajność z wyrazistym designem inspirowanym miejscem pochodzenia Duranta – Seat Pleasant w Maryland.",
+    "prices": {
+      "skstore" : 409.99,
+      "stockx" : 461.5,
+      "goat" : 465.10
+    }
+  },
+   {
+
+    "sku" : "HV1992-601",
+    "model": "Buty Nike KD18 Atomic Pink",
+    "brand" : "Nike",
+    "image": "/static/img/buty-kd18-atomic-pink-photo-blue-lt-wild-mango-hv1992-601.png",
+    "description": "Nike KD18 Atomic Pink/Light Wild Mango to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta. Model o kodzie HV1992-601 znany jako Nike KD18 „Atomic Pink” łączy dynamiczną wydajność na parkiecie z ekspresyjną, żywą kolorystyką w odcieniach różu, żółci i błękitu",
+    "prices": {
+      "skstore" : 519.99,
+      "stockx" : 501.15,
+      "goat" : 450.68
+    }
+  },
+   {
+
+    "sku" : "HV1992-002",
+    "model": "Buty Nike KD18 Rain City",
+    "brand" : "Nike",
+    "image": "/static/img/kd18-hv1992-002.png",
+    "description": "Nike KD18 Black/University Gold (kod HV1992-002) to męskie buty do koszykówki z linii sygnowanej nazwiskiem Kevina Duranta, znane też jako Nike KD18 “Rain City” / “New Dawn”.Model ma głównie czarną kolorystykę z detalami w odcieniach złotego i zielonego, co nadaje mu nowoczesny i dynamiczny wygląd zarówno na boisku, jak i poza nim.astosowane technologie amortyzacji — połączenie Nike Air pod piętą i Zoom Air w przedniej części stopy — zapewniają reaktywną amortyzację, sprężystość odbicia i komfort przy szybkim poruszaniu się",
+    "prices": {
+      "skstore" : 549.99,
+      "stockx" : 587.69,
+      "goat" : 580.47
+    }
+  },
+   {
+
+    "sku" : " IH2366-400",
+    "model": "Buty Nike Giannis Freak 7 „Night Shift” Granatowo-Szare",
+    "brand" : "Nike",
+    "image": "/static/img/giannis-freak-7-se-ih2366-400",
+    "description": "",
+    "prices": {
+      "skstore" : 379.99,
+      "stockx" : 313.67,
+      "goat" : 403.81
+    }
+  }
+  
+]
